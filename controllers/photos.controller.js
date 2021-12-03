@@ -61,7 +61,7 @@ exports.loadAll = async (req, res) => {
 
 };
 
-/****** VOTE FOR PHOTO ********/
+/******* VOTE FOR PHOTO ********/
 
 exports.vote = async (req, res) => {
 
